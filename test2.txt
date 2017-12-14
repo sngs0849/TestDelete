@@ -1,1 +1,1 @@
-test2_UpdateFromMaster_1
+test2_UpdateFromBranch_1
